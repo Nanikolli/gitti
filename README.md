@@ -1,1 +1,2 @@
-gitti
+created simple git projects
+
